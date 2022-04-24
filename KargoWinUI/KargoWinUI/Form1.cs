@@ -23,7 +23,7 @@ namespace KargoWinUI
         {
             CargoDTO cDTO = new CargoDTO //Object initializer ile girilen değerleri atadık
             {
-                ID = Convert.ToInt32(txtID.Text),
+                ID = Convert.ToInt32(txtID.Text), //Textboxa girilen veri string tipinde geleceği için integer tipine convert ettik.
                 Status = cmbStatus.SelectedItem as string
             };
 
@@ -37,7 +37,7 @@ namespace KargoWinUI
 
             try
             {
-                sonuc = postTask.Result; //API'dan dönen mesajları yakaladık
+                sonuc = postTask.Result; //API'dan dönen sonucu yakaladık
             }
             catch (Exception)
             {
@@ -48,15 +48,15 @@ namespace KargoWinUI
 
             bool result;
 
-            if (sonuc.IsSuccessStatusCode) result = true;
+            if (sonuc.IsSuccessStatusCode) result = true; //Success ise result'a true değeri verildi
             else result = false;
 
-            if (result) //Başarılı status kodu dönerse
+            if (result) //result true ise işlem başarılı
             {
                 MessageBox.Show("İşlem başarılı");
                 return;
             }
-            else MessageBox.Show("İstenilen bilgiler eksik/hatalı");
+            else MessageBox.Show("İstenilen bilgiler eksik/hatalı"); //result false ise
         }
     }
 }
