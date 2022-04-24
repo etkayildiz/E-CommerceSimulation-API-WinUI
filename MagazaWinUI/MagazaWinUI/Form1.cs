@@ -89,7 +89,7 @@ namespace MagazaWinUI
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("Lütfen AptNo ve KapıNo kısımlarına sadece sayı giriniz");
+                    MessageBox.Show("Lütfen AptNo ve KapıNo alanlarına sadece sayı giriniz");
                     return;
                 }
 
@@ -205,57 +205,63 @@ namespace MagazaWinUI
 
         private void txtID_Click(object sender, EventArgs e)
         {
-            txtID.Clear();
+            InputClear(txtID);
         }
 
         private void txtAmount_Click(object sender, EventArgs e)
         {
-            txtAmount.Clear();
+            InputClear(txtAmount);
         }
 
         private void txtFullName_Click(object sender, EventArgs e)
         {
-            txtFullName.Clear();
+            InputClear(txtFullName);
         }
 
         private void txtPhone_Click(object sender, EventArgs e)
         {
             txtPhone.Clear();
+            InputClear(txtFlat);
         }
 
         private void txtCountry_Click(object sender, EventArgs e)
         {
-            txtCountry.Clear();
+            InputClear(txtCountry);
         }
 
         private void txtCity_Click(object sender, EventArgs e)
         {
-            txtCity.Clear();
+            InputClear(txtCity);
         }
 
         private void txtDistrcit_Click(object sender, EventArgs e)
         {
-            txtDistrcit.Clear();
+            InputClear(txtDistrcit);
         }
 
         private void txtNeighborhood_Click(object sender, EventArgs e)
         {
-            txtNeighborhood.Clear();
+            InputClear(txtNeighborhood);
         }
 
         private void txtStreet_Click(object sender, EventArgs e)
         {
-            txtStreet.Clear();
+            InputClear(txtStreet);
         }
 
         private void txtAptNo_Click(object sender, EventArgs e)
         {
-            txtAptNo.Clear();
+            InputClear(txtAptNo);
         }
 
         private void txtFlat_Click(object sender, EventArgs e)
         {
-            txtFlat.Clear();
+            InputClear(txtFlat);
+        }
+
+        public void InputClear(TextBox inputName)
+        {
+            inputName.Clear();
         }
     }
 }

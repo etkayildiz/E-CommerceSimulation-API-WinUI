@@ -19,3 +19,24 @@ C:\Users\tugbe\Desktop\MagazaWinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI
 C:\Users\tugbe\Desktop\MagazaWinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.csproj.CopyComplete
 C:\Users\tugbe\Desktop\MagazaWinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.exe
 C:\Users\tugbe\Desktop\MagazaWinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.pdb
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\MagazaWinUI.exe.config
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\MagazaWinUI.exe
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\MagazaWinUI.pdb
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.Form1.resources
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.Properties.Resources.resources
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.csproj.CopyComplete
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.exe
+C:\Users\PC\Desktop\GitHub Repository\E-CommerceSimulation-MVC-API-WinUI\E-CommerceSimulation-API-WinUI\MagazaWinUI\MagazaWinUI\obj\Debug\MagazaWinUI.pdb
