@@ -1,0 +1,222 @@
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\DepoAPI.dll.config
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\DepoAPI.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\DepoAPI.pdb
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csc.exe
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csc.exe.config
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csc.rsp
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csi.exe
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csi.exe.config
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\csi.rsp
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.AppContext.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Console.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\vbc.exe
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\vbc.exe.config
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\vbc.rsp
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\EntityFramework.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\Newtonsoft.Json.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\EntityFramework.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\Newtonsoft.Json.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csprojAssemblyReference.cache
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CopyComplete
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\obj\Debug\DepoAPI.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\obj\Debug\DepoAPI.pdb
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Cors.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.dll
+C:\Users\tugbe\Desktop\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\DepoAPI.dll.config
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\DepoAPI.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\DepoAPI.pdb
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csc.exe
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csc.exe.config
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csc.rsp
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csi.exe
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csi.exe.config
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\csi.rsp
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.AppContext.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Console.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\vbc.exe
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\vbc.exe.config
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\vbc.rsp
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\EntityFramework.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\Newtonsoft.Json.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Cors.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\EntityFramework.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\Newtonsoft.Json.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csprojAssemblyReference.cache
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CopyComplete
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\obj\Debug\DepoAPI.dll
+C:\Users\tugbe\Desktop\GitRepo\TeknolojiSirketiAraclari\DepoAPI\DepoAPI\obj\Debug\DepoAPI.pdb
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\DepoAPI.dll.config
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\DepoAPI.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\DepoAPI.pdb
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\EntityFramework.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Cors.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\EntityFramework.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.Cors.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\obj\Debug\DepoAPI.csproj.CopyComplete
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\obj\Debug\DepoAPI.dll
+C:\Users\PC\Desktop\GitHub Repository\TeknolojiSirketiAraclari-main\DepoAPI\DepoAPI\obj\Debug\DepoAPI.pdb
